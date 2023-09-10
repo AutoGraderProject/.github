@@ -7,9 +7,8 @@ public class AutoGrader{
     	 Frontend=Html Css Bootstrap;
     	 ServerProgramming= NodeJS and express;
     	 DataBase=MongoDB;
-    	 Authentication=undefined;
+    	 Authentication=bcrypt;
     	 HostingPlatform=undefined;
-   
     	 }
     	 
     Modules-1 (Admin){
